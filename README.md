@@ -67,7 +67,8 @@ vk@vkvm:~/DZ7.1$
 
 ## Ответ
 
-Скачал архив, распаковал в ~/Terraform1.1.9
+Скачал архив *terraform_1.0.11_linux_amd64.zip*
+c (https://www.terraform.io/downloads), распаковал в ~/Terraform1.1.9
 ```bash
 vk@vkvm:~/DZ7.1$ terraform --version
 Terraform v1.3.2
