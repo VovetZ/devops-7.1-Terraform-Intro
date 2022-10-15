@@ -65,6 +65,20 @@ vk@vkvm:~/DZ7.1$
 В виде результата этой задачи приложите вывод `--version` двух версий терраформа доступных на вашем компьютере 
 или виртуальной машине.
 
+## Ответ
+
+Скачал архив, распаковал в ~/Terraform1.1.9
+```bash
+vk@vkvm:~/DZ7.1$ terraform --version
+Terraform v1.3.2
+on linux_amd64
+⋊> ~ ~/Terraform1.1.9/terraform --version
+Terraform v1.0.11
+on linux_amd64
+
+Your version of Terraform is out of date! The latest version
+is 1.3.2. You can update by downloading from https://www.terraform.io/downloads.html
+```
 ---
 
 ### Как cдавать задание
